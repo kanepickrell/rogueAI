@@ -1,0 +1,11 @@
+langchain-nomic
+transformers
+sentencepiece
+bitsandbytes
+langchain
+langchain_community
+tiktoken
+sentence-transformers
+torch
+llama-cpp-python
+chromadb

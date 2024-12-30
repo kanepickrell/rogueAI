@@ -1,0 +1,20 @@
+graph TD
+    subgraph "Your Existing Pipeline"
+        A[Document Loader] -->|Raw Text| B[Chunker]
+        B -->|Chunks| C[Embedder]
+        C -->|Vectors| D[Query Engine]
+    end
+
+    subgraph "Database Tables"
+        E[(cyber_docs)]
+        F[(document_chunks)]
+        G[(document_versions)]
+        H[(processing_status)]
+    end
+
+    A -->|Store Original| E
+    B -->|Store Chunks| F
+    C -->|Update Chunks with Embeddings| F
+    D -->|Read for Context| F
+    E ---|Track Changes| G
+    A & B & C -->|Log Progress| H
