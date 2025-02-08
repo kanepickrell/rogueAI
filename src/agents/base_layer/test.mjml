@@ -1,0 +1,176 @@
+<mjml>
+  <mj-head>
+    <mj-title>Sphero Mini - Mix and Match</mj-title>
+    <mj-attributes>
+      <!-- Set a global font and default text color -->
+      <mj-all font-family="Arial, sans-serif" />
+      <mj-text font-size="16px" color="#808080" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#d6dde5">
+  
+    <!-- Top Bar -->
+    <mj-section background-color="#FF3FB4" padding="0px">
+      <mj-column>
+        <mj-image 
+          width="46px" 
+          src="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-launch-logotop.png" 
+          href="https://www.sphero.com" 
+          alt="Sphero" 
+          align="center" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Header Section -->
+    <mj-section background-color="#ffffff" padding="10px">
+      <mj-column width="50%">
+        <!-- Use the Sphero Mini logo from the second email -->
+        <mj-image 
+          width="125px" 
+          src="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-002A-MiniLogo.png" 
+          href="https://www.sphero.com/sphero-mini" 
+          alt="Sphero Mini Logo" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-navbar ico-color="#EE3C96">
+          <mj-navbar-link href="#" color="#000000" font-size="16px">Home</mj-navbar-link>
+          <mj-navbar-link href="#" color="#000000" font-size="16px">Blog</mj-navbar-link>
+          <mj-navbar-link href="#" color="#000000" font-size="16px">Store</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Section -->
+    <mj-section background-color="#FCFCFD" padding="20px">
+      <mj-column width="50%">
+        <mj-text font-size="18px" color="#808080">
+          Mix and Match, Charge and Play.
+        </mj-text>
+        <mj-button 
+          href="https://www.sphero.com/sphero-mini" 
+          font-size="16px" 
+          background-color="#fff" 
+          color="#EE3C96" 
+          inner-padding="5px 35px" 
+          border-radius="15px">
+          Explore Now
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <!-- Hero image pulled from the second email -->
+        <mj-image 
+          src="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-mixandmatch.png" 
+          alt="Mix and Match" 
+          width="547px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Product Section: Get Your Robot -->
+    <mj-section padding="0px" background-color="#FF3FB4">
+      <mj-column width="50%" vertical-align="middle">
+        <!-- Product image from the second email -->
+        <mj-image 
+          src="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-002A-blueboxmini.jpg" 
+          alt="Get Your Robot" 
+          width="300px" 
+          padding="0px" />
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-spacer height="50px" />
+        <mj-text 
+          font-size="18px" 
+          align="center" 
+          color="#ffffff" 
+          font-weight="100" 
+          font-style="italic" 
+          letter-spacing="1px" 
+          padding-bottom="2px">
+          GET YOUR ROBOT
+        </mj-text>
+        <mj-text 
+          font-size="14px" 
+          align="center" 
+          color="#ffffff" 
+          font-weight="100" 
+          line-height="1.5">
+          Sphero Mini fits a huge experience into a tiny robot the size of a ping pong ball. It’s fun, ok?
+        </mj-text>
+        <mj-spacer height="15px" />
+        <mj-button 
+          href="https://store.sphero.com/collections/sphero-mini" 
+          font-size="16px" 
+          background-color="#fff" 
+          color="#EE3C96" 
+          inner-padding="5px 35px" 
+          border-radius="15px">
+          BUY MINI
+        </mj-button>
+        <mj-spacer height="50px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Additional Section: Get Extra Shells -->
+    <mj-section padding="0px" background-color="#00A3D9" direction="rtl">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image 
+          src="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-002A-Shells.jpg" 
+          alt="Get Extra Shells" 
+          width="300px" />
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-spacer height="50px" />
+        <mj-text 
+          font-size="18px" 
+          align="center" 
+          color="#ffffff" 
+          font-weight="100" 
+          font-style="italic" 
+          letter-spacing="1px" 
+          padding-bottom="2px">
+          GET EXTRA SHELLS
+        </mj-text>
+        <mj-text 
+          font-size="14px" 
+          align="center" 
+          color="#ffffff" 
+          font-weight="100" 
+          line-height="1.5">
+          Neon pink, orange, blue, green or classic Sphero white. Buy one. Or two. Or all.
+        </mj-text>
+        <mj-spacer height="15px" />
+        <mj-button 
+          href="https://store.sphero.com/products/sphero-mini-shells" 
+          font-size="16px" 
+          background-color="#fff" 
+          color="#00A3D9" 
+          inner-padding="5px 25px" 
+          border-radius="15px">
+          BUY SHELLS
+        </mj-button>
+        <mj-spacer height="50px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Bottom Graphic Section -->
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column>
+        <mj-image 
+          src="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-002A-Bottomgraphic.jpg" 
+          alt="Sphero Mini - Drive, Code, Game." 
+          width="600px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer / Bottom Bar Section -->
+    <mj-section padding="0px" background-color="#F15822">
+      <mj-column>
+        <mj-image 
+          src="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-launch-spherodotcombottom.png" 
+          alt="Sphero.com" 
+          width="160px" 
+          align="center" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

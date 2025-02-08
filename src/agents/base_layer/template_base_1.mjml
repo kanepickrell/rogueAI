@@ -1,0 +1,60 @@
+<mjml>
+  <mj-body>
+  
+    <!-- Header Section -->
+    <mj-section>
+      <mj-column width="50%">
+        <!-- Placeholder for header logo or title -->
+        <mj-text>Header Left</mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <!-- Navigation placeholder -->
+        <mj-navbar>
+          <mj-navbar-link href="#">Home</mj-navbar-link>
+          <mj-navbar-link href="#">Blog</mj-navbar-link>
+          <mj-navbar-link href="#">Store</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Hero Section -->
+    <mj-section>
+      <mj-column width="50%">
+        <!-- Promotional text placeholder -->
+        <mj-text>Promotional Text</mj-text>
+        <mj-button href="#">Call-to-Action</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <!-- Placeholder for hero image -->
+        <mj-text>Hero Image Placeholder</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Content/Product Section -->
+    <mj-section>
+      <mj-column>
+        <!-- Product or content block placeholder -->
+        <mj-text>Product/Content Title</mj-text>
+        <mj-text>Description/Price</mj-text>
+        <mj-button href="#">Action Button</mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Footer Section -->
+    <mj-section>
+      <mj-column>
+        <!-- Footer left placeholder -->
+        <mj-text>Footer Left</mj-text>
+      </mj-column>
+      <mj-column>
+        <!-- Footer center placeholder (e.g., Privacy Policy) -->
+        <mj-text>Footer Center</mj-text>
+      </mj-column>
+      <mj-column>
+        <!-- Footer right placeholder (e.g., Social Links) -->
+        <mj-text>Footer Right</mj-text>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>

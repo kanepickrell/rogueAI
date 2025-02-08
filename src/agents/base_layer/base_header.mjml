@@ -1,0 +1,16 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column width="50%">
+        <mj-text>Header Left</mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-navbar>
+          <mj-navbar-link href="#">Home</mj-navbar-link>
+          <mj-navbar-link href="#">Blog</mj-navbar-link>
+          <mj-navbar-link href="#">Store</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

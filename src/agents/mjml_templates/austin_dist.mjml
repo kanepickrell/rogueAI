@@ -1,0 +1,61 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-title>Discount Light</mj-title>
+  </mj-head>
+  <mj-body background-color="#d6dde5">
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="24px" font-weight="bold">Austin, TX</mj-text>
+        <mj-text align="center" font-size="18px">Austin Convention Center</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#fa8739">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="20px" font-weight="bold">Croft's in Austin is opening December 20th</mj-text>
+        <mj-text align="center" color="#ffffff" font-size="14px">Hi Jane,</mj-text>
+        <mj-text align="center" color="#ffffff">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia a assumenda nulla in quisquam optio quibusdam fugiat perspiciatis nobis, ad tempora culpa porro labore.</mj-text>
+        <mj-button background-color="#ffffff" color="#fa8739" font-size="16px" align="center" href="#">RSVP Today</mj-button>
+        <mj-button background-color="#ffffff" color="#fa8739" font-size="16px" align="center" href="#">Book an Appointment</mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold">Come see us!</mj-text>
+        <mj-text>We're looking forward to meeting you.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#f0f0f0">
+      <mj-column width="50%">
+        <mj-text font-size="16px" font-weight="bold">Address</mj-text>
+        <mj-text>Austin Convention Center</mj-text>
+        <mj-text>123 Main Street, 78701</mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-size="16px" font-weight="bold">Hours of Operation</mj-text>
+        <mj-text>Monday, December 20th: 8:00AM - 5:00PM</mj-text>
+        <mj-text>Tuesday, December 21st: 8:00AM - 5:00PM</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#2f323b">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="13px">View this email in your browser</mj-text>
+        <mj-text align="center" color="#ffffff" font-size="13px">You are receiving this email advertisement because you registered with Croft's Accountants (123 Main Street, Austin, TX 78701) and agreed to receive emails from us regarding new features, events, and special offers.</mj-text>
+        <mj-text align="center" color="#ffffff" font-size="13px">&copy; Croft's Accountants Inc., All Rights Reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#fa8739">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="13px">
+          <a href="#" style="color: #ffffff; text-decoration: none;">Privacy</a> | 
+          <a href="#" style="color: #ffffff; text-decoration: none;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

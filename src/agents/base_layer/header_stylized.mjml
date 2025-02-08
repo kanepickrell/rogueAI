@@ -1,0 +1,45 @@
+<mjml>
+  <mj-head>
+    <mj-title>Styled Header</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#ffffff" line-height="24px"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+  </mj-head>
+  
+  <mj-body background-color="#E7E7E7">
+  
+    <!-- Header Section with Background -->
+    <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0">
+      <mj-column width="50%">
+        <mj-text color="#ffffff" font-size="20px" font-weight="bold" align="left">
+          Company Logo / Name
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <!-- Navigation bar styled with uppercase and spacing -->
+        <mj-navbar font-size="14px" font-weight="bold" letter-spacing="1px">
+          <mj-navbar-link href="#" color="#ffffff">Home</mj-navbar-link>
+          <mj-navbar-link href="#" color="#ffffff">Blog</mj-navbar-link>
+          <mj-navbar-link href="#" color="#ffffff">Store</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <!-- Optional Divider -->
+    <mj-section background-color="#1f2e78">
+      <mj-column width="100%">
+        <mj-divider border-color="#ffffff" border-width="2px" width="80%" />
+      </mj-column>
+    </mj-section>
+  
+  </mj-body>
+</mjml>

@@ -1,0 +1,68 @@
+<mjml>
+  <mj-head>
+    <mj-title>Sphero Mini - Mix and Match</mj-title>
+  </mj-head>
+  <mj-body>
+  
+    <!-- Top Bar -->
+    <mj-section>
+      <mj-column>
+        <mj-text>Top Bar Placeholder</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="20px"></mj-spacer>
+    
+    <!-- Logos and Title -->
+    <mj-section>
+      <mj-column>
+        <mj-text>Logos and Title Placeholder</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Split Crane and Text -->
+    <mj-section>
+      <mj-column>
+        <mj-text>Crane & Text Placeholder</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>Secondary Image Placeholder</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Get Your Robot -->
+    <mj-section>
+      <mj-column>
+        <mj-text>Get Your Robot - Image Placeholder</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>Get Your Robot - Text and Button Placeholder</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Get Extra Shells -->
+    <mj-section>
+      <mj-column>
+        <mj-text>Get Extra Shells - Image Placeholder</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>Get Extra Shells - Text and Button Placeholder</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Bottom Graphic -->
+    <mj-section>
+      <mj-column>
+        <mj-text>Bottom Graphic Placeholder</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Bottom Bar -->
+    <mj-section>
+      <mj-column>
+        <mj-text>Bottom Bar Placeholder</mj-text>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>

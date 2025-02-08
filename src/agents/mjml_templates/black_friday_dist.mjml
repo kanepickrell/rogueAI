@@ -1,0 +1,57 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a { text-decoration: none; color: inherit; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#000000">
+
+    <!-- Header Navigation -->
+    <mj-section background-color="#ffffff" padding="10px 0">
+      <mj-column>
+        <mj-text align="center" color="#000000" font-size="14px" font-family="Arial, sans-serif" padding="5px 0">
+          <strong>WOMEN | MEN | KIDS</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Black Friday Banner -->
+    <mj-section background-color="#1a1a1a" padding="20px">
+      <mj-column width="100%">
+        <mj-text align="center" color="#FAB701" font-size="28px" font-family="Arial, sans-serif" padding="10px 0">
+          <strong>BLACK FRIDAY</strong>
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="22px" font-family="Arial, sans-serif" padding="5px 0">
+          <strong>Take an extra 50% off</strong>
+        </mj-text>
+        <mj-text align="center" color="#cccccc" font-size="16px" font-family="Arial, sans-serif" padding="5px 0">
+          Use code <strong>SALEONSALE</strong> at checkout
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- CTA Button -->
+    <mj-section background-color="#000000" padding="20px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-button background-color="#FAB701" color="#000000" font-size="18px" font-family="Arial, sans-serif" padding="10px 0" border-radius="5px" href="#">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Terms and Conditions -->
+    <mj-section background-color="#ffffff" padding="15px">
+      <mj-column width="100%">
+        <mj-text align="center" color="#555555" font-size="12px" font-family="Arial, sans-serif" padding="10px 25px">
+          * Offer valid on Allura purchases on 17/29/11 at 11:59 pm. No price adjustments on previous purchases, 
+          offer limited to stock. Cannot be combined with any offer or promotion other than free shipping.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
