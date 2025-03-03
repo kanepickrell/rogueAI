@@ -1,2 +1,2 @@
 # rogueAI
-- experimental cyber threat tools: phishing emulation, white cell research chatbot
+- experimental cyber threat tools: phishing emulation and attck orchestrator chatbot
